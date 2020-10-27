@@ -18,7 +18,7 @@ I'm **Rafael Yokota** 29 years old.
 **Languages and Tools:**  
 
 <!--#
-TAM=50
+TAM=30
 ATTRIBUTION=Mark Wahlberg
 $-->
 
