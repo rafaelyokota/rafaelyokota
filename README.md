@@ -7,7 +7,7 @@ I'm **Rafael Yokota** 29 years old.
      
      &#11088;  C/C++/QT
      
-     XP
+     JAVA,PHP ....
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-yokota-24709782/)](https://www.linkedin.com/in/rafael-yokota-24709782/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafaelyokota)](https://www.instagram.com/rafaelyokota/) 
