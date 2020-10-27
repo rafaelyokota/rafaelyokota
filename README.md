@@ -22,13 +22,13 @@ src="https://img.icons8.com/color/2x/c-programming.png"></code>
 <code><img height="20"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
+src="https://img.icons8.com/ios-filled/2x/qt.png"></code>
 <code><img height="20"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+src="https://img.icons8.com/dusk/2x/java-coffee-cup-logo.png"></code>
 <code><img height="20"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+src="https://img.icons8.com/color/2x/git.png"></code>
 <code><img height="20"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+src="https://img.icons8.com/dusk/2x/docker.png"></code>
 <code><img height="20"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
