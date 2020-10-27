@@ -8,9 +8,9 @@ I'm Rafael Yokota 29 years old, backend developer (since 2012) python and C/C++/
 ----
 **Languages and Tools:**  
 <code><img height="20"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/python.png"></code>
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/cpluplus.png"></code>
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpluplus/cpluplus.png"></code>
 
 ---
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelyokota&show_icons=true)
