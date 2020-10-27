@@ -2,6 +2,7 @@
 ---- 
 I'm **Rafael Yokota** 29 years old.
  - **Backend developer** (since 2012) from brasil at Fulltime Gestora de Dados.
+ 
      &#10687;  **Python** &#x2661;
      &#10687; C/C++/QT
 
