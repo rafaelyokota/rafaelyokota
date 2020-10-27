@@ -6,7 +6,7 @@ I'm **Rafael Yokota** 29 years old.
      
      &#11088;  C/C++/QT
      
-     JAVA,PHP,AWS, DOCKER, LINUX ....
+     JAVA,PHP,AWS(Boto3,SQS,KINESIS, FIREHOSE, REDSHIFT), DOCKER, LINUX, MONGO ....
       
       
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-yokota-24709782/)](https://www.linkedin.com/in/rafael-yokota-24709782/)
