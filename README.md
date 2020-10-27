@@ -2,7 +2,7 @@
 ---- 
 I'm **Rafael Yokota** 29 years old.
  - **Backend developer** (since 2012) from brasil at Fulltime Gestora de Dados.
-     <img alt="Python icon" src="https://img.icons8.com/dusk/344/python.png" lazy="loaded"> XXXX
+     <img alt="Python icon" src="https://img.icons8.com/dusk/344/python.png" lazy="loaded" style="height: 24px; width: 24px;"> XXXX
      &#11088;   **Python**  &#x1F60D;
      
      &#11088;  C/C++/QT
