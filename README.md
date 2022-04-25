@@ -38,12 +38,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://img.icons8.com/color/2x/amazon-web-services.png"></code>
 
 
-
-
-
----
-#![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelyokota&show_icons=true)
-
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelyokota&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
